@@ -1,5 +1,5 @@
 
-### tldr: I wanted to apply my R skills to a project!
+### tldr: I wanted to apply my R skills to a project with real-world application/analysis!
 
 ### Goal:
 Diabetes influences 37.3 million Americans. That's 1 in 10 people. Even worse, 1 in 3 adults in America, or 96 million adults have prediabetes. It's the seventh leading cause of death in the US and costs an estimate $327 billion in medical costs ever year. 
